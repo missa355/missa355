@@ -1,12 +1,12 @@
 ### Hi there, I'm Mohamed Issa 👋
 
-<!--
-**missa355/missa355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on 
+    an E2E encrypted chatting application that serves the purpose of making the code as well the infrastructure as secure as possible.
+    
 
-- 🔭 I’m currently working on 
-- Test
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

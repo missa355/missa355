@@ -7,6 +7,6 @@
 
 
 - 🌱 I’m currently learning C# + .NET 6, Redis, RabbitMQ, HAProxy. 
-- 👯 I’m looking to collaborate on any cool projects that come up :T
+- 👯 I’m looking to collaborate on any cool projects that come up :>
 - 📫 How to reach me: mohamed.issa@mail.utoronto.ca
 

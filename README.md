@@ -1,4 +1,4 @@
-### Hi there, I'm Mohamed Issa 👋
+### Hi there👋
 
 
 - 🔭 Current projects : Platform for students to coordinate studying 
